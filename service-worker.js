@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/heryfidiawan07/heryfidiawan07.github.io/precache-manifest.2d8fdd94a533b0cf116ce3547da926c2.js"
+  "/simple-reactjs/precache-manifest.473b6b6fd5272022d73f2b85f75d58d0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/heryfidiawan07/heryfidiawan07.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/simple-reactjs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
