@@ -2,12 +2,12 @@ import React, { Component } from 'react';
 
 import UserList from '../api-component/UserList'
 
-class Api extends Component {
+class User extends Component {
 	render(){
 		return (
             <div className="row">
                 <div className="col-md-12">
-    			     <h1 className="text-center">HALAMAN API</h1>
+    			     <h1 className="text-center">USER API</h1>
                 </div>
                 
                 <div className="col-sm-6">
@@ -18,4 +18,4 @@ class Api extends Component {
 	}
 }
 
-export default Api;
+export default User;

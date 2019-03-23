@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import {BrowserRouter, Switch, Route, Link, browserHistory} from 'react-router-dom';
 
 import Home from './Home';
-import Api from './Api';
+import User from './User';
+import Post from './Post';
 import NoMatch from './NoMatch';
 
 class Main extends Component {
@@ -10,7 +11,8 @@ class Main extends Component {
 		return (
       		<Switch>
                 <Route path={'/'} exact component={Home} />
-                <Route path={'/api'} exact component={Api} />
+                <Route path={'/api-users'} exact component={User} />
+                <Route path={'/api-posts'} exact component={Post} />
                 <Route component={NoMatch} />
             </Switch>
 		)

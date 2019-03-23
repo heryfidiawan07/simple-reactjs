@@ -6,10 +6,10 @@ class Footer extends Component {
 	render(){
 		return (
 			<div className="footer">
-				<h5 class="text-center">
+				<h5 className="text-center">
                     <img src={logo} className="App-logo foot-logo" alt="logo" />
                 </h5>
-				<p class="text-center">Copyright 2019, <i><a href="mailto:heryfidiawan07@gmail.com">@hery_dev</a></i></p>
+				<p className="text-center">Copyright 2019, <i><a href="mailto:heryfidiawan07@gmail.com">@hery_dev</a></i></p>
 			</div>
 		)
 	}

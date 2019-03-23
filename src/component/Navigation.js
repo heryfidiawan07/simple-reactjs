@@ -12,7 +12,8 @@ class Navigation extends Component {
 			<nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 				<img src={logo} className="App-logo" alt="logo" />
 				<Link to={"/"} className="nav-link">Home</Link>
-				<Link to={"/api"} className="nav-link">API</Link>
+				<Link to={"/api-users"} className="nav-link">User API</Link>
+                <Link to={"/api-posts"} className="nav-link">Post API</Link>
 			</nav>
 		)
 	}

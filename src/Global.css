@@ -40,3 +40,14 @@
 .danger {
 	color: red;
 }
+.post-index {
+    margin-bottom: 10px;
+}
+.post-index .card-header {
+    height: 2.6em;
+    overflow: hidden;
+}
+.post-index .card-body {
+    height: 15em;
+    overflow: hidden;
+}
