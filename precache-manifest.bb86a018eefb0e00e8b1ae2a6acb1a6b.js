@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/simple-reactjs/static/js/runtime~main.1c5cc75e.js"
   },
   {
-    "revision": "06947ecec48efb463923",
-    "url": "/simple-reactjs/static/js/main.5a3562c0.chunk.js"
+    "revision": "b2f948df9879b789b9bd",
+    "url": "/simple-reactjs/static/js/main.77823913.chunk.js"
   },
   {
-    "revision": "22417bf829c53e25ec18",
-    "url": "/simple-reactjs/static/js/2.bd5b20de.chunk.js"
+    "revision": "2f4e5a2d73f85d512d74",
+    "url": "/simple-reactjs/static/js/2.25c475e5.chunk.js"
   },
   {
-    "revision": "06947ecec48efb463923",
-    "url": "/simple-reactjs/static/css/main.2a58f8ce.chunk.css"
+    "revision": "b2f948df9879b789b9bd",
+    "url": "/simple-reactjs/static/css/main.1ce800b9.chunk.css"
   },
   {
-    "revision": "22417bf829c53e25ec18",
+    "revision": "2f4e5a2d73f85d512d74",
     "url": "/simple-reactjs/static/css/2.0efed829.chunk.css"
   },
   {
-    "revision": "82bfb5af35ab8629760c65c29053e845",
+    "revision": "24481e2ae1939d4032482f73edca419a",
     "url": "/simple-reactjs/index.html"
   }
 ];
